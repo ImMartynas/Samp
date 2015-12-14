@@ -1,0 +1,1 @@
+<?php header('Location: /web/wb/page.php?q=home'); ?>
